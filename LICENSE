@@ -1,13 +1,27 @@
-The MIT License (MIT)
+                           Apache License
+                     Version 2.0, January 2004
+                  http://www.apache.org/licenses/
 
-Copyright (c) 2015 konpa
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
+1. Definitions.
+   "License" shall mean the terms and conditions for use, reproduction, and distribution as defined in this document.
+   "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+   "You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+   "Work" shall mean the work of authorship, whether in source or object form, made available under the License.
+   "Contributor" shall mean any entity that makes a contribution to the Work.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Grant of Copyright License.
+   Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute the Work and such derivative works in source or object form.
+
+3. Grant of Patent License.
+   Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, use, sell, offer for sale, have made, and import the Work and to otherwise exploit any contribution made by the Contributor to the Work.
+
+4. Redistribution.
+   You may reproduce and distribute copies of the Work or derivative works of the Work in any medium, with or without modifications, and in source or object form, provided that you meet the following conditions:
+   a) You must include a copy of this License in every copy of the Work that you distribute.
+   b) You must state any modifications made to the Work, and retain an attribution of the original authors if applicable.
+   c) You may not use the names, trademarks, or other identifiers of the Licensor, except as permitted in the License.
+
+5. Submission of Contributions.
+   Unless You explicitly st
